@@ -1,12 +1,15 @@
+//Packagesz
 package personalProjects;
 
+//Imports
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class DrawingCodeCombined {
+public class WheelOfDrawing {
 
+    //Private Static
     private static final Scanner scanner = new Scanner(System.in);
     private static final Random random = new Random();
 
